@@ -14,9 +14,11 @@
         "rmdVisualWrapConfigured": "true",
         "source_window_id": "",
         "Source": "Source",
-        "docOutlineVisible": "1",
+        "docOutlineVisible": "0",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "70:0"
+        "rmdVisualModeLocation": "160:0",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
     },
     "folds": "",
     "lastKnownWriteTime": 1734349376,
