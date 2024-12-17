@@ -1,0 +1,10 @@
+---
+title: "Dplyr basics"
+description: "Harness the power of dplyr in these 10 steps"
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/
+date: 12-15-2024
+categories: [Dplyr, R, Tidyverse] # self-defined categories
+draft: false 
+---

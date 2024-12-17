@@ -1,0 +1,10 @@
+---
+title: "Matplotlib basics"
+description: "Improve your viz game in Python with Matplotlib!"
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/
+date: 12-17-2024
+categories: [Python, Matplotlib] # self-defined categories
+draft: false 
+---

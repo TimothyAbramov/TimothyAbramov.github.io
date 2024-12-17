@@ -1,0 +1,10 @@
+---
+title: "Quarto Website in 10 Mins"
+description: "Create a great foundation for your website in 10 mins"
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/
+date: 12-13-2024
+categories: [Quarto, R, Website] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
