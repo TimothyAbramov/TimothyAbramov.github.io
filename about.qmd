@@ -1,3 +1,17 @@
+---
+title: Timothy Abramov
+image: about_pic.jpg
+about:
+  template: jolla
+  image-width: 10em
+  image-shape: round
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/TimothyAbramov
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/timothy-abramov/
+---
 
-
-About author goes here
+Timothy Abramov is passionate about uncovering insights through data visualization and data munging. An avid hiker, he balances his love for nature with his expertise in R and Python, his preferred programming languages.

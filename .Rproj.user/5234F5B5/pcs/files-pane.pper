@@ -1,8 +1,12 @@
 {
     "sortOrder": [
         {
+            "columnIndex": 1,
+            "ascending": false
+        },
+        {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
     "path": "~/Downloads/4. Github Public Repos/TimothyAbramov.github.io"
