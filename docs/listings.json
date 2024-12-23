@@ -8,5 +8,9 @@
     "items": [
       "/posts/2024-12-22-hi-and-welcome/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
   }
 ]

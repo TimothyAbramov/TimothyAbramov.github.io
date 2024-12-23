@@ -8,12 +8,14 @@ website:
     left:
       - text: Feed
         href: index.qmd
+      - text: Projects
+        href: projects.qmd
       - text: About  
         href: about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
 
