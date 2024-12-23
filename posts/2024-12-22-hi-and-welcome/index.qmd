@@ -4,7 +4,7 @@ description: "A small something to kickstart my writing endeavour"
 author:
   - name: Timothy Abramov
     url: https://timothyabramov.github.io/about.html
-date: 12-13-2024
+date: 12-22-2024
 categories: [personal, announcement] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 freeze: true
@@ -16,7 +16,7 @@ library(tidyverse)
 
 Hi and welcome, I'm Tim, nice to meet you!
 
-![](images/IMG_2634 Large.jpeg){fig-align="left" width="480"}
+![](images/IMG_2634%20Large.jpeg){fig-align="left" width="480"}
 
 Long story short, here is a plan of mine in a nutshell:
 
