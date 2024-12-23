@@ -1,10 +1,51 @@
 ---
-title: "Quarto Website in 10 Mins"
-description: "Create a great foundation for your website in 10 mins"
+title: "Hi and welcome!"
+description: "A small something to kickstart my writing endeavour"
 author:
   - name: Timothy Abramov
-    url: https://timothyabramov.github.io/
+    url: https://timothyabramov.github.io/about.html
 date: 12-13-2024
-categories: [Quarto, R, Website] # self-defined categories
+categories: [personal, announcement] # self-defined categories
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+freeze: true
 ---
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
+library(tidyverse)
+```
+
+Hi and welcome, I'm Tim, nice to meet you!
+
+![](images/IMG_2634 Large.jpeg){fig-align="left" width="480"}
+
+Long story short, here is a plan of mine in a nutshell:
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, error=FALSE}
+data <- data.frame(timeframe = factor(c("Now", "Future"), levels = c("Now", "Future")),
+                   ability_points = c(1000, 10000))
+
+ggplot(data, aes(x = timeframe, y = ability_points, fill = timeframe)) +
+  geom_bar(stat = "identity", width = 0.5) +
+  labs(title = "", x = "Timeframe", y = "Ability Points") +
+  theme_minimal() +
+  scale_y_continuous(breaks = seq(0,10000,2000)) +
+  theme(
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor.x = element_blank(),
+    panel.grid.minor.y = element_blank(),
+    legend.position = "none"
+    )
+
+```
+
+With this blog I hope to improve my abilities in:
+
+-   writing (travel/story blogs, tutorials, coding adventures)
+
+-   coding prowess (R, Python)
+
+-   marketing abilities
+
+I've got a long journey ahead of me, hope to see you in the next one!
+
+Tim

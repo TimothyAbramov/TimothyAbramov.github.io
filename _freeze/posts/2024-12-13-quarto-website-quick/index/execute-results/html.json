@@ -1,0 +1,17 @@
+{
+  "hash": "c55b4a59224bf76ed19a3a4e06797383",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Hi and welcome!\"\ndescription: \"A small something to kickstart my writing endeavour\"\nauthor:\n  - name: Timothy Abramov\n    url: https://timothyabramov.github.io/about.html\ndate: 12-13-2024\ncategories: [personal, announcement] # self-defined categories\ndraft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!\nfreeze: true\n---\n\n::: {.cell}\n\n:::\n\n\n\nHi and welcome, I'm Tim, nice to meet you!\n\n![](images/IMG_2634 Large.jpeg){fig-align=\"left\" width=\"480\"}\n\nLong story short, here is a plan of mine in a nutshell:\n\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](index_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n\nWith this blog I hope to improve my abilities in:\n\n-   writing (travel/story blogs, tutorials, coding adventures)\n\n-   coding prowess (R, Python)\n\n-   marketing abilities\n\nI've got a long journey ahead of me, hope to see you in the next one!\n\nTim\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
