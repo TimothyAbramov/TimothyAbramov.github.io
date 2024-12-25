@@ -1,0 +1,53 @@
+---
+title: "It's nice"
+description: "Estuary hike (~40 miles). Ukraine, Jan 1 2021"
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/about.html
+date: 12-25-2024
+categories: [personal, "story time", hiking] 
+draft: false
+freeze: true
+lightbox: true
+---
+
+About 6-7 in the morning, temp in 40-50s. I might have had some sleep, not much, that's for sure. Friend and I are heading out for a hike.  We've done that one prior, but never on Jan 1st. Idea and decision came out of a sudden, but I'm glad it did. Came back from New Year's party, 30 minutes of prep and we're on our way.
+
+::: {layout-ncol=3}
+
+![](images/liman1.jpg){group="group1"}
+
+![](images/liman2.jpg){group="group1"}
+
+![](images/liman3.jpg){group="group1"}
+
+:::
+
+Fresh air makes its way into our lungs, feet are getting used to their new life for upcoming 20-30 hours, sun is already out, but just barely. It's been a fruitful on precipitation season: clay mud is heavy and it's clingy. We're dressed light, but sufficient for the day light. As per usual, about 5 miles in, feet are starting to feel it. 5-10 miles later, sun is already setting, it's getting hard to see the trail and where we're stepping. We decide to take a nap in the bushes: sleep deprivation is setting in and we're waiting for the moon to make its appearance. 2 hours and our wish is granted. 
+
+
+::: {layout-ncol=4}
+
+![](images/liman4.jpg){group="group2"}
+
+![](images/liman5.jpg){group="group2"}
+
+![](images/liman6.jpg){group="group2"}
+
+![](images/liman7.jpg){group="group2"}
+
+:::
+
+Reached the middle point. Moonlight guides our steps. Where there usually would be a path to the other side,  6-10 feet wide stream of water is leaving the estuary. Realizing that we're not jumping that, we take our shoes and socks off, and crossing the stream. By that point I start shivering, here and there. Half wet socks aren't helping. We keep on going. Tea in a thermos is clutch. 
+
+::: {layout-ncol=3}
+
+![](images/liman8.jpg){group="group3"}
+
+![](images/liman9.jpg){group="group3"}
+
+![](images/liman10.jpg){group="group3"}
+
+:::
+
+It's about 1-2 hours before sunset, we're taking another nap. I wake up,  feel that if I go to sleep again I might not wake up again. Not sure if that is the case, but I'm not risking it. Sooner rather than later sun greets us again, sharing its warmth, it's nice.
