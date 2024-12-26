@@ -1,6 +1,6 @@
 ---
 title: "Mark of Creator"
-description: ""
+description: " "
 author:
   - name: Timothy Abramov
     url: https://timothyabramov.github.io/about.html
