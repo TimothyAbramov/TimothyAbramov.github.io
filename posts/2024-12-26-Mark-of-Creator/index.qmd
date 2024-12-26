@@ -4,7 +4,7 @@ description: ""
 author:
   - name: Timothy Abramov
     url: https://timothyabramov.github.io/about.html
-date: 12-25-2024
+date: 12-26-2024
 categories: [poem] 
 draft: false
 freeze: true
