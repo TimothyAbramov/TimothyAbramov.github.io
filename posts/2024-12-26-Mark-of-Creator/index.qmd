@@ -1,0 +1,46 @@
+---
+title: "Mark of Creator"
+description: ""
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/about.html
+date: 12-25-2024
+categories: [poem] 
+draft: false
+freeze: true
+lightbox: true
+---
+
+Flavors of beauty 
+
+Sights of attention 
+
+Careful design and comprehension 
+
+Mark of curator 
+
+Mark of Creator
+
+::: {layout-ncol=5}
+
+![](images/1.jpg){group="group1"}
+
+![](images/2.jpg){group="group1"}
+
+![](images/3.jpg){group="group1"}
+
+![](images/4.jpg){group="group1"}
+
+![](images/5.jpg){group="group1"}
+
+![](images/6.jpg){group="group1"}
+
+![](images/7.jpg){group="group1"}
+
+![](images/8.jpg){group="group1"}
+
+![](images/9.jpg){group="group1"}
+
+![](images/10.jpg){group="group1"}
+
+:::
