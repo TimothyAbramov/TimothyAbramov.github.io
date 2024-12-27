@@ -1,0 +1,54 @@
+---
+title: "Краски/Colors"
+description: " "
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/about.html
+date: 12-27-2024
+categories: [Russian, English] 
+draft: false
+freeze: true
+lightbox: true
+---
+
+Как много красок в этом мире, 
+
+Ты наполняешь ими всё! 
+
+Как могут люди в этом изобильи, 
+
+Cмотря на них, не забывать про всё? 
+
+Про то что мучит, тяготеет, 
+
+Про то что жить нам мирно не даёт. 
+
+Ведь жизнь не чёрно-белый график, 
+
+У нас есть любящий нас Бог! 
+
+
+\
+
+How many colors in this world, 
+
+And You are in them all! 
+
+How people can in this galore, 
+
+To not forget it all? 
+
+All things that torture us And bring us sadness, 
+
+All things that hurt our souls, 
+
+As if impaled by sword. 
+
+Since, after all, 
+
+Our life is not a grayscale canvas, 
+
+We have our hope, we have our Lord!
+
+![](images/1.jpg){group="group1"}
+

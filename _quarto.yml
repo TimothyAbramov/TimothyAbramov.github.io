@@ -7,7 +7,9 @@ website:
   navbar:
     left:
       - text: Feed
-        href: index.qmd
+        href: feed.qmd
+      - text: Poems
+        href: poems.qmd
       - text: Projects
         href: projects.qmd
       - text: About  
