@@ -1,5 +1,5 @@
 ---
-title: "Течение времени/Time Flow Progression"
+title: "Течение Времени/Time Flow Progression"
 description: " "
 author:
   - name: Timothy Abramov

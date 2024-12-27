@@ -14,4 +14,4 @@ about:
       href: https://www.linkedin.com/in/timothy-abramov/
 ---
 
-Hi, I'm Tim, nice to meet you! Currently I am studying Data Science at New College of Florida. I use R and Python for my data-driven endeavors, and particularly enjoy data visualization and munging. In my leisure time I sing in a church choir, go for hikes, and dabble in leather craft.
+Hi, I'm Tim, nice to meet you! Currently I am studying Data Science at New College of Florida. I use R and Python for my data-driven endeavors, and particularly enjoy data visualization and munging. In my leisure time I sing in a church choir, go for hikes, and dabble in leather craft and poem-writing.

@@ -1,0 +1,23 @@
+---
+title: "Пуская Тени"
+description: " "
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/about.html
+date: 12-27-2024
+categories: [Russian] 
+draft: false
+freeze: true
+lightbox: true
+---
+
+Пуская тени, не опускаем колени. 
+
+Видя препятствия, помним о цели движения. 
+
+Шаг за шагом мы ближе и ближе 
+
+К осмысленной, честной, и правильной жизе.
+
+![](images/1.jpg){group="group1"}
+

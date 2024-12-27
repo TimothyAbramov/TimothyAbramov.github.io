@@ -1,5 +1,5 @@
 ---
-title: "Смотря на свои фотографии"
+title: "Смотря На Свои Фотографии"
 description: " "
 author:
   - name: Timothy Abramov
