@@ -1,5 +1,5 @@
 ---
-title: "Time Flow Progression"
+title: "Течение времени"
 description: " "
 author:
   - name: Timothy Abramov
@@ -11,8 +11,8 @@ freeze: true
 lightbox: true
 ---
 
-Time flow progression, as a fuzzy reflection of our impressions.
-
 Течение времени, как размытый пейзаж впечатлений. 
+
+Time flow progression, as a fuzzy reflection of our impressions.
 
 ![](images/1.jpg){group="group1"}
