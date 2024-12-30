@@ -35,6 +35,13 @@
     "text": "It’s nice\n\n\n\npersonal\n\n\nstory time\n\n\nhiking\n\n\n\nEstuary hike (~40 miles). Ukraine, Jan 1 2021\n\n\n\nTimothy Abramov\n\n\nDec 25, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nHi and welcome!\n\n\n\npersonal\n\n\nannouncement\n\n\n\nA small something to kickstart my writing endeavour\n\n\n\nTimothy Abramov\n\n\nDec 22, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "projects/2024-12-30-github_pages_website/index.html",
+    "href": "projects/2024-12-30-github_pages_website/index.html",
+    "title": "Github Pages Website",
+    "section": "",
+    "text": "This website was built in Quarto + R and hosted on Github Pages.\nSource code: https://github.com/TimothyAbramov/TimothyAbramov.github.io"
+  },
+  {
     "objectID": "posts/2024-12-22-hi-and-welcome/index.html",
     "href": "posts/2024-12-22-hi-and-welcome/index.html",
     "title": "Hi and welcome!",
@@ -56,11 +63,18 @@
     "text": "About 6-7 in the morning, temp in 40-50s. I might have had some sleep, not much, that’s for sure. Friend and I are heading out for a hike. We’ve done that one prior, but never on Jan 1st. Idea and decision came out of a sudden, but I’m glad it did. Came back from New Year’s party, 30 minutes of prep and we’re on our way.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFresh air makes its way into our lungs, feet are getting used to their new life for upcoming 20-30 hours, sun is already out, but just barely. It’s been a fruitful on precipitation season: clay mud is heavy and it’s clingy. We’re dressed light, but sufficient for the day light. As per usual, about 5 miles in, feet are starting to feel it. 5-10 miles later, sun is already setting, it’s getting hard to see the trail and where we’re stepping. We decide to take a nap in the bushes: sleep deprivation is setting in and we’re waiting for the moon to make its appearance. 2 hours and our wish is granted.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReached the middle point. Moonlight guides our steps. Where there usually would be a path to the other side, 6-10 feet wide stream of water is leaving the estuary. Realizing that we’re not jumping that, we take our shoes and socks off, and crossing the stream. By that point I start shivering, here and there. Half wet socks aren’t helping. We keep on going. Tea in a thermos is clutch.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s about 1-2 hours before sunset, we’re taking another nap. I wake up, feel that if I go to sleep again I might not wake up again. Not sure if that is the case, but I’m not risking it. Sooner rather than later sun greets us again, sharing its warmth, it’s nice."
   },
   {
+    "objectID": "projects/2024-12-30-gss_explorer_dashboard/index.html",
+    "href": "projects/2024-12-30-gss_explorer_dashboard/index.html",
+    "title": "GSS Navigator",
+    "section": "",
+    "text": "General Social Survey dashboard built with Shiny + R.\nlink: GSS Navigator"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Timothy Abramov",
     "section": "",
-    "text": "No matching items"
+    "text": "GSS Navigator\n\n\n\nR\n\n\nShiny\n\n\ndashboard\n\n\n\nGeneral Social Survey dashboard\n\n\n\nTimothy Abramov\n\n\nDec 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGithub Pages Website\n\n\n\nGithub Pages\n\n\nQuarto\n\n\nR\n\n\n\nthis website\n\n\n\nTimothy Abramov\n\n\nDec 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",

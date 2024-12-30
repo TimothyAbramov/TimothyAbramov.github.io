@@ -20,6 +20,9 @@
   },
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/projects/2024-12-30-gss_explorer_dashboard/index.html",
+      "/projects/2024-12-30-github_pages_website/index.html"
+    ]
   }
 ]

@@ -1,0 +1,18 @@
+---
+title: "Github Pages Website"
+description: "this website"
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/about.html
+date: 12-27-2024
+categories: ["Github Pages", Quarto, R] 
+draft: false
+freeze: auto
+lightbox: true
+image: "images/thumb.png"
+---
+
+This website was built in Quarto + R and hosted on Github Pages.
+
+Source code: [https://github.com/TimothyAbramov/TimothyAbramov.github.io](https://github.com/TimothyAbramov/TimothyAbramov.github.io)
+

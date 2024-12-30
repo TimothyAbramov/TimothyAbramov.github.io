@@ -1,0 +1,18 @@
+---
+title: "GSS Navigator"
+description: "General Social Survey dashboard"
+author:
+  - name: Timothy Abramov
+    url: https://timothyabramov.github.io/about.html
+date: 12-30-2024
+categories: [R, Shiny, dashboard] 
+draft: false
+freeze: auto
+lightbox: true
+image: "images/thumb.png"
+---
+
+General Social Survey dashboard built with Shiny + R.
+
+link: [GSS Navigator](https://timothyabramov.shinyapps.io/GSSExplorer/)
+
