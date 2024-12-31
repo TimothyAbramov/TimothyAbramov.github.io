@@ -14,6 +14,8 @@ website:
         href: projects.qmd
       - text: About  
         href: about.qmd
+  open-graph: true
+  favicon: logo.png
 
 format:
   html:
